@@ -3,3 +3,5 @@ se pasa de version 0 a version 1
 se pasa de version 1 a version 2
 
 a que historia tan chistosa
+
+algo mas que agregar
