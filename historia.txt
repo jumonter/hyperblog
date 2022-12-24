@@ -1,1 +1,2 @@
-Hola este es mi primer archivo version 0
+Hola este es mi primer archivo version 1
+se pasa de version 0 a version 1
